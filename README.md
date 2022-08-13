@@ -10,4 +10,8 @@ Links to other sites.
 This application may contain links to other websites. If you click on a third-party link, you will be redirected to this site. Please note that these external sites are not operated by me. Therefore, I strongly recommend that you read the Privacy Policy of these websites. I do not control and am not responsible for the content, privacy policies or practices of any third-party sites or services.
 
 Spreading 
-The only official distribution channel for this application is: Google Play Store https://play.google.com/ Any other distribution method is not official and therefore not supported by the developer. This privacy policy only applies to distribution through official channels. Changes to this Privacy Policy This policy may be updated from time to time. If you have any questions or suggestions about my Privacy Policy, please feel free to contact me. rinaz.games@mail.ru
+The only official distribution channel for this application is: Google Play Store https://play.google.com/ Any other distribution method is not official and therefore not supported by the developer. This privacy policy only applies to distribution through official channels. 
+
+Changes to this Privacy Policy 
+This policy may be updated from time to time. If you have any questions or suggestions about my Privacy Policy, please feel free to contact me. 
+rinaz.games@mail.ru
